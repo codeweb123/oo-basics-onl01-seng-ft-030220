@@ -9,3 +9,4 @@ class Shoe
     puts "the shoe has been repaired"
     @condition = new
   end
+end
